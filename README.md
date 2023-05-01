@@ -7,7 +7,7 @@
 
 <br><br>
 
-## Contact
+## Contatos
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/patrick-silva-gomes-39704222b/" target="_blank">
@@ -17,6 +17,7 @@
  <img align="center" src="https://img.shields.io/badge/-PaTRiCk Dev-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
+
 <!--
 **patrickgomes-dev/patrickgomes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
