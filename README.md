@@ -1,7 +1,7 @@
 ## Olá, eu sou Patrick 👋
 #### Seja muito Bem Vindo(a) ao meu Perfil!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickgomes-dev&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Patrick-SGomes&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Estudante de TI apaixonado por programação 
 
