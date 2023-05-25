@@ -1,3 +1,5 @@
+<img align="right" src="/img.png" width=400/>
+
 # Olá, eu sou Patrick 👋
 #### Seja muito Bem Vindo(a) ao meu Perfil!
 
