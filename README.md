@@ -16,9 +16,9 @@
 <a href="https://www.linkedin.com/in/patrick-silva-gomes-39704222b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Patrick Silva Gomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.youtube.com/@patrickgomes-dev" target="_blank">
+<!-- <a href="https://www.youtube.com/@patrickgomes-dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-PaTRiCk Dev-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a> -->
 </p>
 
 <!--
