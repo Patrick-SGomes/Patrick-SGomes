@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Patrick-SGomes&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Estudante de TI apaixonado por programação.
-- 👨‍💻 Atualmente focando meus estudos em Front-end.
 
 <br><br>
 
